@@ -1,0 +1,10 @@
+{
+	"scripts": {
+		"start": "(cd packages/x-app && ember s)",
+		"clean": "lerna clean",
+		"postinstall": "lerna bootstrap"		
+	},
+	"devDependencies": {
+		"lerna": "^2.11.0"
+	}
+}
