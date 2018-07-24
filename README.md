@@ -4,9 +4,8 @@ Reproduction of the bug in https://github.com/ember-engines/ember-engines/issues
 
 ## Install
 
-```sh
-yarn && yarn start
-```
+* Clone repo
+* `yarn && yarn start`
 
 ## Reproduce error
 
